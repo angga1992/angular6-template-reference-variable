@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AMS TEAM';
+  public fname = "Angga ";
+  public lname = "Mulya Sasmita";
+  public message = "";
 }
